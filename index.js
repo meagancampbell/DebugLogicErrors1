@@ -39,3 +39,4 @@ if (launchReady) {
 // The issue is with the launchReady value being assigned and reassigned based on different checks. One way to fix the logic error is to use two different variables to store the results of checking the fuel readiness (lines 6-13) and checking the crew and computer readiness (lines 15-22).
 
 // Update your code to do this. Verify that your change works by updating the console.log statements.
+
